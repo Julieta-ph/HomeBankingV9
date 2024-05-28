@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HomeBankingV9.props" />
+</Project>
