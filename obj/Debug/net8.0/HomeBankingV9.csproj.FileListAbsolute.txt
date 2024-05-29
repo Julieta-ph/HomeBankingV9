@@ -255,3 +255,4 @@ C:\Users\Juli\Desktop\Proyecto Bootcamp .Net\HomeBankingV9\obj\Debug\net8.0\refi
 C:\Users\Juli\Desktop\Proyecto Bootcamp .Net\HomeBankingV9\obj\Debug\net8.0\HomeBankingV9.pdb
 C:\Users\Juli\Desktop\Proyecto Bootcamp .Net\HomeBankingV9\obj\Debug\net8.0\HomeBankingV9.genruntimeconfig.cache
 C:\Users\Juli\Desktop\Proyecto Bootcamp .Net\HomeBankingV9\obj\Debug\net8.0\ref\HomeBankingV9.dll
+C:\Users\Juli\Desktop\Proyecto Bootcamp .Net\HomeBankingV9\obj\Debug\net8.0\HomeBankingV9.sourcelink.json

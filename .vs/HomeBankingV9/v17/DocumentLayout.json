@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Juli\\Desktop\\Proyecto Bootcamp .Net\\HomeBankingV9\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366A3111-7BAE-473B-A1C0-7F330C7285BF}|HomeBankingV9.csproj|c:\\users\\juli\\desktop\\proyecto bootcamp .net\\homebankingv9\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366A3111-7BAE-473B-A1C0-7F330C7285BF}|HomeBankingV9.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juli\\Desktop\\Proyecto Bootcamp .Net\\HomeBankingV9\\Migrations\\20240529114237_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240529114237_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366A3111-7BAE-473B-A1C0-7F330C7285BF}|HomeBankingV9.csproj|c:\\users\\juli\\desktop\\proyecto bootcamp .net\\homebankingv9\\models\\homebankingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366A3111-7BAE-473B-A1C0-7F330C7285BF}|HomeBankingV9.csproj|solutionrelative:models\\homebankingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 100,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240529114237_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\\Desktop\\Proyecto Bootcamp .Net\\HomeBankingV9\\Migrations\\20240529114237_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240529114237_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Juli\\Desktop\\Proyecto Bootcamp .Net\\HomeBankingV9\\Migrations\\20240529114237_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240529114237_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:42:37.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeBankingContext.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\\Desktop\\Proyecto Bootcamp .Net\\HomeBankingV9\\Models\\HomeBankingContext.cs",
+              "RelativeDocumentMoniker": "Models\\HomeBankingContext.cs",
+              "ToolTip": "C:\\Users\\Juli\\Desktop\\Proyecto Bootcamp .Net\\HomeBankingV9\\Models\\HomeBankingContext.cs",
+              "RelativeToolTip": "Models\\HomeBankingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:40:11.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\\Desktop\\Proyecto Bootcamp .Net\\HomeBankingV9\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Juli\\Desktop\\Proyecto Bootcamp .Net\\HomeBankingV9\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:08:16.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
